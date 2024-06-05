@@ -1,0 +1,1 @@
+This repository is used to test Terraform and Yandex Cloud.
